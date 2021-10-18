@@ -7,3 +7,5 @@
 6. php login.php [login dulu terus copy scret key]
 7. nano config.php [tempel scret key sesuai aturan]
 8. php index.php
+
+# KALAU GAMAU RIBET DOWNLOAD AJA SC INI TERUS MASUKIN SCRET KEY NYA LEWAT APP QUICK EDIT
