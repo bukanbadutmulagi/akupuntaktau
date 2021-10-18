@@ -4,7 +4,7 @@
 3. pkg install php
 4. git clone https://github.com/bukanbadutmulagi/akupuntaktau
 5. cd akunpuntaktau
-6. php login.php [login dulu terus copy scret key]
+6. php user.php [login dulu terus copy scret key]
 7. nano config.php [tempel scret key sesuai aturan]
 8. php index.php
 
